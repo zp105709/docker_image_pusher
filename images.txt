@@ -1,2 +1,2 @@
-shardingsphere-proxy:latest
+apache/shardingsphere-proxy
 
