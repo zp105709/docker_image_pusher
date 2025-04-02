@@ -1,2 +1,2 @@
-emqx:5.8.3
+shardingsphere-proxy:latest
 
