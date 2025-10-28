@@ -1,1 +1,1 @@
-apache/shardingsphere-proxy:5.5.2
+confluentinc/cp-kafka:7.4.0
