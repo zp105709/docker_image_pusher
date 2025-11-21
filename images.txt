@@ -1,2 +1,2 @@
 ubuntu/zookeeper:latest
---platform=linux/arm64/v8
+--platform=linux/arm64
