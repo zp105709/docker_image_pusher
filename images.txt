@@ -1,1 +1,1 @@
-ubuntu/zookeeper:sha256:28abc4aa01d88eb96d8a101f9d15535eddec23f331f5bdb29939f10e6e1319a9
+ubuntu/zookeeper@sha256:28abc4aa01d88eb96d8a101f9d15535eddec23f331f5bdb29939f10e6e1319a9
