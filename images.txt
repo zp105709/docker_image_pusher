@@ -1,1 +1,1 @@
-zookeeper:3.9.4
+arm64v8/zookeeper:3.9
