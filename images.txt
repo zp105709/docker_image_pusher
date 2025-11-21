@@ -1,1 +1,1 @@
-bitnami/redis@sha256-2c6061d2bab57ec96f23de9eba84a2370472f373c0778c535570ead8734f26e1
+ubuntu/redis@sha256:69f796c9be9fd0fbcb4296d7bdef0ebf8433edda52719362ca1b5f2e5be0fbb9
