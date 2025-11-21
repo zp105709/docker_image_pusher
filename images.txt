@@ -1,2 +1,1 @@
-ubuntu/zookeeper:latest
---platform=linux/arm64
+ubuntu/zookeeper@sha256:6cce38da7aba98cbb7749c1c785f9c3f5c89747138a4324b5e979354d9355eda
