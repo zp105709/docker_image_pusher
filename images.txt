@@ -1,1 +1,1 @@
-zookeeper:latest
+ubuntu/zookeeper:3.1-22.04_beta
