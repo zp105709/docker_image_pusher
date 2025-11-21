@@ -1,1 +1,1 @@
-ubuntu/redis@sha256:69f796c9be9fd0fbcb4296d7bdef0ebf8433edda52719362ca1b5f2e5be0fbb9
+mongodb/mongodb-community-server:7.0-ubuntu2204@sha256:3491f0df9592818cd5e1337022e234e51be230a44f2488a2fba81d922671d055
